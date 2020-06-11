@@ -29,4 +29,10 @@ a:hover{
 color:#ffffff;
   text-decoration:none;
 }
-
+.link{
+color:#4199ff;
+}
+.link:hover{
+  color:#fcc108;
+text-decoration:underline;
+}
