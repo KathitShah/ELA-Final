@@ -6,13 +6,13 @@ function hi() {
   var firstNameFull = firstNameUpperCase + firstNameLowerCase;
   if (passwordName === "MsDraperisthebest") {
     alert("Hi " + firstNameFull + ", welcome to my website");
-    document.querySelectorAll("a")[0].setAttribute("href", "real.html");
+    document.querySelectorAll("a")[0].href="real.html";
   } else if (firstNameFull === "Draper" && passwordName === "Iamthebest") {
     alert("Hello Ms.Draper, welcome to my website");
-    document.querySelectorAll("a")[0].setAttribute("href", "real.html");
+    document.querySelectorAll("a")[0].href="real.html";
   } else if (firstNameFull === "Catherine" && passwordName === "Iamthebest") {
     alert("Hello Ms.Draper, welcome to my website");
-    document.querySelectorAll("a")[0].setAttribute("href", "real.html");
+    document.querySelectorAll("a")[0].href="real.html";
   } else {
     alert(
       "Hi " + firstNameFull + ", please try again. Password is incorrect, Retry"
