@@ -1,0 +1,16 @@
+.btn1 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2%;
+  display: flex;
+}
+.btn2 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2%;
+  display: flex;
+}
+.btn {
+  position: relative;
+  top: 40vh;
+}
