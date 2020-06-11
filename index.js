@@ -19,9 +19,3 @@ function hi() {
     );
   }
 }
-function previous() {
-  document.getElementById("prev").style.display = "none";
-  document.getElementById("next").onclick(function () {
-    document.getElementById("prev").style.display = "inline-block";
-  });
-}
