@@ -26,16 +26,13 @@ a{
   color:#dc3545;
 }
 a:hover{
-color:#ffffff;
+  color:#ffffff;
   text-decoration:none;
 }
 .link{
-color:#4199ff;
+  color:#4199ff;
 }
 .link:hover{
   color:#fcc108;
-text-decoration:underline;
-}
-a.btn-outline-warning:hover{
-  color:#ffffff;
+  text-decoration:underline;
 }
