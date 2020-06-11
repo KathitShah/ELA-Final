@@ -36,3 +36,6 @@ color:#4199ff;
   color:#fcc108;
 text-decoration:underline;
 }
+a.btn-outline-warning:hover{
+  color:#ffffff;
+}
