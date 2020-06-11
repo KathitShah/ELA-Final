@@ -14,3 +14,10 @@
   position: relative;
   top: 40vh;
 }
+a{
+  color:#dc3545;
+}
+a:hover{
+color:#ffffff;
+  text-decoration:none;
+}
